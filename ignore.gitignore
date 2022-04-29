@@ -1,0 +1,6 @@
+./__pycache__/
+*.log
+./imp/
+./output/
+.idea 
+.qt_for_python
