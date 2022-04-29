@@ -1,4 +1,3 @@
-
 import sys
 from CIM_Data_Manager import start_gui
 from Simple_mode import import_cim

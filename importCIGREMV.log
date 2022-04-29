@@ -1,15 +1,15 @@
-INFO:cimpy.cimimport:START of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_DL.xml"
-INFO:cimpy.cimimport:START of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_DY.xml"
-INFO:cimpy.cimimport:START of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_EQ.xml"
-INFO:cimpy.cimimport:START of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_SSH.xml"
-INFO:cimpy.cimimport:START of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_SV.xml"
-INFO:cimpy.cimimport:START of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_TP.xml"
-INFO:cimpy.cimimport:END of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_DL.xml"
-INFO:cimpy.cimimport:END of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_DY.xml"
-INFO:cimpy.cimimport:END of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_EQ.xml"
-INFO:cimpy.cimimport:END of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_SSH.xml"
-INFO:cimpy.cimimport:END of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_SV.xml"
-INFO:cimpy.cimimport:END of parsing file "G:\Forschung\Gui\imp\ST_CGMES_Sincal_TP.xml"
+INFO:cimpy.cimimport:START of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_DL.xml"
+INFO:cimpy.cimimport:START of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_DY.xml"
+INFO:cimpy.cimimport:START of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_EQ.xml"
+INFO:cimpy.cimimport:START of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_SSH.xml"
+INFO:cimpy.cimimport:START of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_SV.xml"
+INFO:cimpy.cimimport:START of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_TP.xml"
+INFO:cimpy.cimimport:END of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_DL.xml"
+INFO:cimpy.cimimport:END of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_DY.xml"
+INFO:cimpy.cimimport:END of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_EQ.xml"
+INFO:cimpy.cimimport:END of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_SSH.xml"
+INFO:cimpy.cimimport:END of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_SV.xml"
+INFO:cimpy.cimimport:END of parsing file "G:\CIMPY_SINCAL_POWERFACTORY\CIMPy_Sincal_OSMS_PowerFactory\imp\ST_CGMES_Sincal_TP.xml"
 WARNING:cimpy.cimimport:'DiagramObjectPoint' has not attribute 'name' : 21 times
 WARNING:cimpy.cimimport:'SEXS' has not attribute 'Xlf' : 2 times
 WARNING:cimpy.cimimport:'Pss2B' has not attribute 'ICS1' : 2 times
@@ -89,7 +89,7 @@ INFO:cimpy.cimimport:CIM object SvVoltage created : 2 times
 INFO:cimpy.cimimport:CIM object SvStatus created : 5 times
 INFO:cimpy.cimimport:CIM object SvPowerFlow created : 3 times
 INFO:cimpy.cimimport:CIM object TopologicalNode created : 2 times
-INFO:cimpy.cimimport:Created totally 79 CIM objects in 0.03986978530883789s
+INFO:cimpy.cimimport:Created totally 79 CIM objects in 0.043979644775390625s
 
 
 INFO:cimpy.cimexport:Class Diagram was read from profile DL but this profile is not active for the export. Usedefault profile from possibleProfileList.

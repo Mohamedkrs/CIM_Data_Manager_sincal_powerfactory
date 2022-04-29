@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:entsoe="http://entsoe.eu/CIM/SchemaExtension/3/1#" xmlns:profile="http://www.entsoe.eu/2012/profile1_v16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:md="http://iec.ch/TC57/61970-552/ModelDescription/1#" xmlns:sin="http://www.simtec.cc/cim/sincal-cim-rdf-syntax#" >
 <md:FullModel rdf:about="urn:uuid:1e7711af-af89-4a0f-863b-0f83c17bae1c">
-    <md:Model.created>29/04/2022 19:07:43</md:Model.created>
+    <md:Model.created>29/04/2022 20:05:35</md:Model.created>
     <md:Model.modelingAuthoritySet>FAU</md:Model.modelingAuthoritySet>
     <md:Model.profile>http://iec.ch/TC57/61970-452/Equipment/2</md:Model.profile>
 </md:FullModel>

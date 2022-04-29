@@ -1,9 +1,5 @@
-﻿import logging
+﻿from pathlib import Path
 import cimpy
-from pathlib import Path
-
-logging.basicConfig(filename='importCIGREMV.log',
-                    level=logging.INFO, filemode='w')
 
 
 def import_cim(input_path, output_path, sincal2pf, profile_list):
