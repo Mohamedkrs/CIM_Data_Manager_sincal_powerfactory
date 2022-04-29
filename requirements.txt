@@ -1,0 +1,6 @@
+chevron==0.14.0
+lxml==4.8.0
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.10.1
+xmltodict==0.12.0
