@@ -4,11 +4,12 @@ from Simple_mode import import_cim
 
 
 def helpme():
-    print('-help     shows the args documentation')
-    print('-mode     sets the mode: - simple (background task) or gui to start CIM Data Manager')
-    print('-input    input folder where the CIM files are located')
-    print('-export   output folder where the CIM files will be stored')
-    print('Example: py.exe .\origine.py -mode:simple -input:.\ImportedData2 -output:.\ExportedData\ ')
+    print('-help       shows the args documentation')
+    print('-mode       sets the mode: - simple (background task) or gui to start CIM Data Manager')
+    print('-input      input folder where the CIM files are located')
+    print('-export     output folder where the CIM files will be exported to')
+    print('-profiles   Sets the profiles to be exported')
+    print('Example: py.exe .\start.py -mode:simple -input:.\ImportedData2 -output:.\ExportedData\ ')
 
 
 def main():
@@ -40,10 +41,10 @@ def main():
             print('Please select an input and an output folder')
             print('For more help type -help')
             return
-    if not ProfileList:
-        print('Please set the profiles to be exported')
-        print('For more help type -help')
-        return
+        if not ProfileList:
+            print('Please set the profiles to be exported')
+            print('For more help type -help')
+            return
     if mode == 'simple':
         try:
             import_cim(input_path, output_path, sincal2pf, ProfileList)
