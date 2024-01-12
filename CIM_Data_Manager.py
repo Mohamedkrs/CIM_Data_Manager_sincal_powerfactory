@@ -2,7 +2,7 @@ import glob
 import logging
 import os
 import sys
-from distutils.util import strtobool
+from distutils.util import strtoboolsd
 from functools import partial
 from pathlib import Path
 
